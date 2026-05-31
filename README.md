@@ -16,4 +16,14 @@ If you use or modify my code, **you must clearly credit the original author in a
 
 ---
 
+## 联系方式 / Contact
+
+如有任何问题或建议，欢迎通过邮箱与我联系。
+
+If you have any questions or suggestions, feel free to reach out via email.
+
+📧 **vitalqm0718@gmail.com**
+
+---
+
 © 2026 VITALQM. Shared under the MIT License.
